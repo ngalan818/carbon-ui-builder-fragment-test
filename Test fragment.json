@@ -1,0 +1,505 @@
+{
+  "id": "48755707624389299574158168031163",
+  "lastModified": "2022-11-18T19:58:29.541Z",
+  "title": "Test fragment",
+  "data": {
+    "items": [
+      {
+        "type": "grid",
+        "outline": true,
+        "items": [
+          {
+            "type": "row",
+            "items": [
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "tile",
+                    "items": [
+                      {
+                        "type": "link",
+                        "text": "IBM Carbon UI Builder",
+                        "inline": false,
+                        "disabled": false,
+                        "codeContext": {
+                          "href": "#",
+                          "name": "link-33"
+                        },
+                        "id": "33",
+                        "cssClasses": [
+                          {
+                            "id": "definite-jade-louse",
+                            "name": "definite-jade-louse"
+                          }
+                        ]
+                      }
+                    ],
+                    "id": "32",
+                    "codeContext": {
+                      "name": "tile-32"
+                    },
+                    "cssClasses": [
+                      {
+                        "id": "substantial-beige-gull",
+                        "name": "substantial-beige-gull"
+                      }
+                    ]
+                  }
+                ],
+                "id": "4",
+                "codeContext": {
+                  "name": "column-4"
+                },
+                "cssClasses": [],
+                "smallSpan": 1,
+                "mediumOffset": 0,
+                "maxSpan": 0,
+                "mediumSpan": 0,
+                "smallOffset": 0
+              },
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "clickable-tile",
+                    "items": [
+                      {
+                        "type": "link",
+                        "text": "Home",
+                        "inline": false,
+                        "disabled": false,
+                        "codeContext": {
+                          "href": "#",
+                          "name": "link-18"
+                        },
+                        "id": "18",
+                        "cssClasses": [
+                          {
+                            "id": "alleged-amethyst-antlion",
+                            "name": "alleged-amethyst-antlion"
+                          }
+                        ]
+                      }
+                    ],
+                    "id": "17",
+                    "codeContext": {
+                      "name": "clickable-tile-17"
+                    },
+                    "cssClasses": [
+                      {
+                        "id": "present-copper-wallaby",
+                        "name": "present-copper-wallaby"
+                      }
+                    ]
+                  }
+                ],
+                "id": "10",
+                "codeContext": {
+                  "name": "column-10"
+                },
+                "cssClasses": [],
+                "smallSpan": 0,
+                "mediumSpan": 0,
+                "largeSpan": 0,
+                "xLargeSpan": 0,
+                "maxSpan": 0,
+                "smallOffset": 0
+              },
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "expandable-tile",
+                    "light": false,
+                    "expanded": true,
+                    "outline": false,
+                    "items": [
+                      {
+                        "type": "text",
+                        "text": "File",
+                        "id": "35",
+                        "codeContext": {
+                          "name": "text-35"
+                        },
+                        "cssClasses": []
+                      },
+                      {
+                        "type": "tile-fold",
+                        "items": [
+                          {
+                            "type": "text",
+                            "text": "Below fold",
+                            "id": "37",
+                            "codeContext": {
+                              "name": "text-37"
+                            }
+                          }
+                        ],
+                        "id": "36",
+                        "codeContext": {
+                          "name": "tile-fold-36"
+                        },
+                        "cssClasses": []
+                      }
+                    ],
+                    "id": "34",
+                    "codeContext": {
+                      "name": "expandable-tile-34"
+                    },
+                    "cssClasses": [
+                      {
+                        "id": "present-copper-wallaby",
+                        "name": "present-copper-wallaby"
+                      }
+                    ]
+                  }
+                ],
+                "id": "19",
+                "codeContext": {
+                  "name": "column-19"
+                },
+                "cssClasses": [
+                  {
+                    "id": "naughty-copper-viper",
+                    "name": "naughty-copper-viper"
+                  }
+                ]
+              },
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "expandable-tile",
+                    "light": false,
+                    "expanded": true,
+                    "outline": false,
+                    "items": [
+                      {
+                        "type": "text",
+                        "text": "Feedback",
+                        "id": "25",
+                        "codeContext": {
+                          "name": "text-25"
+                        },
+                        "cssClasses": []
+                      },
+                      {
+                        "type": "tile-fold",
+                        "items": [
+                          {
+                            "type": "text",
+                            "text": "Below fold",
+                            "id": "27",
+                            "codeContext": {
+                              "name": "text-27"
+                            },
+                            "cssClasses": []
+                          }
+                        ],
+                        "id": "26",
+                        "codeContext": {
+                          "name": "tile-fold-26"
+                        },
+                        "cssClasses": []
+                      }
+                    ],
+                    "id": "24",
+                    "codeContext": {
+                      "name": "expandable-tile-24"
+                    },
+                    "cssClasses": [
+                      {
+                        "id": "present-copper-wallaby",
+                        "name": "present-copper-wallaby"
+                      }
+                    ]
+                  }
+                ],
+                "id": "14",
+                "codeContext": {
+                  "name": "column-14"
+                },
+                "cssClasses": [
+                  {
+                    "id": "naughty-copper-viper",
+                    "name": "naughty-copper-viper"
+                  }
+                ]
+              },
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "expandable-tile",
+                    "light": false,
+                    "expanded": true,
+                    "outline": false,
+                    "items": [
+                      {
+                        "type": "text",
+                        "text": "Help",
+                        "id": "29",
+                        "codeContext": {
+                          "name": "text-29"
+                        },
+                        "cssClasses": []
+                      },
+                      {
+                        "type": "tile-fold",
+                        "items": [
+                          {
+                            "type": "text",
+                            "text": "Below fold",
+                            "id": "31",
+                            "codeContext": {
+                              "name": "text-31"
+                            }
+                          }
+                        ],
+                        "id": "30",
+                        "codeContext": {
+                          "name": "tile-fold-30"
+                        },
+                        "cssClasses": []
+                      }
+                    ],
+                    "id": "28",
+                    "codeContext": {
+                      "name": "expandable-tile-28"
+                    },
+                    "cssClasses": [
+                      {
+                        "id": "present-copper-wallaby",
+                        "name": "present-copper-wallaby"
+                      }
+                    ]
+                  }
+                ],
+                "id": "13",
+                "codeContext": {
+                  "name": "column-13"
+                },
+                "cssClasses": [
+                  {
+                    "id": "naughty-copper-viper",
+                    "name": "naughty-copper-viper"
+                  }
+                ]
+              }
+            ],
+            "id": "3",
+            "codeContext": {
+              "name": "row-3"
+            },
+            "cssClasses": [
+              {
+                "id": "naughty-copper-viper",
+                "name": "naughty-copper-viper"
+              }
+            ],
+            "condensed": true,
+            "narrow": true
+          },
+          {
+            "type": "row",
+            "items": [],
+            "id": "6",
+            "codeContext": {
+              "name": "row-6"
+            }
+          }
+        ],
+        "id": "2",
+        "codeContext": {
+          "name": "grid-2"
+        },
+        "cssClasses": [],
+        "condensed": true,
+        "narrow": true,
+        "fullWidth": true
+      },
+      {
+        "type": "grid",
+        "outline": true,
+        "items": [
+          {
+            "type": "row",
+            "items": [
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "text",
+                    "text": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+                    "id": "45",
+                    "codeContext": {
+                      "name": "text-45"
+                    },
+                    "cssClasses": []
+                  }
+                ],
+                "id": "41",
+                "codeContext": {
+                  "name": "column-41"
+                },
+                "cssClasses": []
+              }
+            ],
+            "id": "39",
+            "codeContext": {
+              "name": "row-39"
+            },
+            "cssClasses": []
+          },
+          {
+            "type": "row",
+            "items": [
+              {
+                "type": "column",
+                "items": [],
+                "id": "55",
+                "codeContext": {
+                  "name": "column-55"
+                }
+              }
+            ],
+            "id": "54",
+            "codeContext": {
+              "name": "row-54"
+            }
+          },
+          {
+            "type": "row",
+            "items": [
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "disabled": false,
+                    "type": "radio-group",
+                    "legend": "Select one of the following:",
+                    "defaultSelected": "none",
+                    "labelPosition": "right",
+                    "orientation": "vertical",
+                    "items": [
+                      {
+                        "type": "radio",
+                        "labelText": "Option 1",
+                        "disabled": false,
+                        "defaultChecked": false,
+                        "id": "47",
+                        "codeContext": {
+                          "name": "radio-47"
+                        }
+                      },
+                      {
+                        "type": "radio",
+                        "labelText": "Option 2",
+                        "disabled": false,
+                        "defaultChecked": false,
+                        "id": "48",
+                        "codeContext": {
+                          "name": "radio-48"
+                        },
+                        "cssClasses": []
+                      },
+                      {
+                        "type": "radio",
+                        "labelText": "Option 3",
+                        "disabled": false,
+                        "defaultChecked": false,
+                        "id": "49",
+                        "codeContext": {
+                          "name": "radio-49"
+                        }
+                      }
+                    ],
+                    "id": "46",
+                    "codeContext": {
+                      "name": "radio-group-46"
+                    },
+                    "cssClasses": [],
+                    "valueSelected": "none"
+                  }
+                ],
+                "id": "43",
+                "codeContext": {
+                  "name": "column-43"
+                },
+                "cssClasses": []
+              }
+            ],
+            "id": "42",
+            "codeContext": {
+              "name": "row-42"
+            },
+            "cssClasses": []
+          },
+          {
+            "type": "row",
+            "items": [
+              {
+                "type": "column",
+                "items": [
+                  {
+                    "type": "accordion",
+                    "align": "end",
+                    "size": "md",
+                    "items": [],
+                    "id": "53",
+                    "codeContext": {
+                      "name": "accordion-53"
+                    }
+                  }
+                ],
+                "id": "51",
+                "codeContext": {
+                  "name": "column-51"
+                }
+              }
+            ],
+            "id": "50",
+            "codeContext": {
+              "name": "row-50"
+            }
+          }
+        ],
+        "id": "38",
+        "codeContext": {
+          "name": "grid-38"
+        },
+        "cssClasses": []
+      }
+    ],
+    "id": 1
+  },
+  "cssClasses": [],
+  "allCssClasses": [
+    {
+      "id": "naughty-copper-viper",
+      "name": "naughty-copper-viper",
+      "content": "background: #161616;\nheight: 51px;"
+    },
+    {
+      "id": "substantial-beige-gull",
+      "name": "substantial-beige-gull",
+      "content": "background: #161616;\nmin-height: 49px;\nmin-width: 200px;"
+    },
+    {
+      "id": "definite-jade-louse",
+      "name": "definite-jade-louse",
+      "content": "font-weight: bold;\ndisplay: flex;\njustify-content: center;\nalign-items: center;\ncolor: white;"
+    },
+    {
+      "id": "present-copper-wallaby",
+      "name": "present-copper-wallaby",
+      "content": "background: #161616;\nmin-height: 49px;\nmin-width: 50px;\ncolor: #c6c6c6"
+    },
+    {
+      "id": "alleged-amethyst-antlion",
+      "name": "alleged-amethyst-antlion",
+      "content": "color: #c6c6c6"
+    }
+  ]
+}
